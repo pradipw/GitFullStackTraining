@@ -3,3 +3,6 @@ New file
 change to fix bug1
 
 Updated by other user on master
+
+Change made to fix bug2 
+
