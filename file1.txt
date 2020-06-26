@@ -4,4 +4,9 @@ updated
 
 Trying my first push to remote repository
 Change made by team mate on remote master repo to test pull
+<<<<<<< HEAD
 change- by team mate to check conflict to check rebase scenrio
+=======
+
+change- at local master to test conflict while push operation
+>>>>>>> c779e0e... File1 line added to test push with conflict on remote repo
